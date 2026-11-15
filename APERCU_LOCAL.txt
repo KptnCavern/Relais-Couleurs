@@ -1,0 +1,1 @@
+Pour consulter localement : depuis ce dossier, python -m http.server 8080, puis http://localhost:8080/fr/ ; pour un apercu identique aux chemins du site, servir le dossier parent et ouvrir /relais-couleurs-site-v1/fr/ apres avoir adapte les chemins ou deployer a /relais-couleurs/.
